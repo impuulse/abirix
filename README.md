@@ -46,9 +46,8 @@ The minimum requirement by this project template that your Web server supports P
 INSTALLATION
 ------------
 
-### Install via Composer
-composer install
-php yii migrate
+### composer install
+### php yii migrate
 
 CONFIGURATION
 -------------
@@ -67,6 +66,7 @@ return [
 ];
 ```
 
-screens with login and register examples
+### Screens with login and register examples
 http://joxi.ru/ZrJdn1NT96YeZ2
+
 http://joxi.ru/YmE9ZO8C03NeJm
